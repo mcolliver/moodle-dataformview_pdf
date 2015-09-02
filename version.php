@@ -21,5 +21,5 @@
  */
 
 $plugin->component = 'dataformview_pdf';
-$plugin->version = 2014091500;
+$plugin->version = 2015090100;
 $plugin->requires = 2013111800;
